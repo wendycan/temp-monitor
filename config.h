@@ -12,4 +12,6 @@
 
 
 #endif /* CONFIG_H_ */
-extern const uint8_t tiBug[];
+extern const uint8_t Dlogo[];
+extern uint8_t Dcontrast;
+extern uint8_t Dbrightness;
